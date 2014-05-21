@@ -44,7 +44,7 @@ trainLabels <- as.data.frame(trainLabels)
 
 remove("tbly_train","tbly_test","tblactivity_labels")
 
-## Create Column Labes for DFs
+## Create Column Labels for DFs
 
 colNames <- tblfeatures[,2]
 
